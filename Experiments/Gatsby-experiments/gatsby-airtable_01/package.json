@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "dotenv": "^8.0.0",
-    "gatsby": "^2.7.5",
+    "gatsby": "^5.5.0",
     "gatsby-source-airtable": "^2.0.8",
     "gatsby-source-filesystem": "^2.0.37",
     "react": "^16.8.6",
